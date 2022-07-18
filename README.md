@@ -6,6 +6,7 @@ Steps to run this project:
 2. Setup database settings inside `data-source.ts` file
 3. Run `npm start` command
 
+- Run `npx typeorm init --name MyProject --database postgres`.
 ![Example](https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/293541449_761982161668667_980414147845376239_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ZzencpjXQW8AX-3OF7A&_nc_ht=scontent.fsgn2-3.fna&oh=03_AVLlav2e5eOhEUgrBCdxBHKvV5NtWaIvISiXi1FTwSJxCw&oe=62FC3758)
 ## Inverse side of the relationship
 
