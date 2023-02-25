@@ -1,5 +1,7 @@
 # Awesome Project Build with TypeORM
 
+To follow the code above: Access to this link https://typeorm.io/
+
 Steps to run this project:
 
 1. Run `npm i` command
